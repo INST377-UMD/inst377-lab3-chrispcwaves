@@ -75,13 +75,3 @@ a {
 .sidebar:hover {
    background-color: darkorange;
 }
-
-
-
-#rules{
-   text-align: center;
-   background-color: cyan;
-   width: 25px;
-   margin-right: 10px;
-}
-
