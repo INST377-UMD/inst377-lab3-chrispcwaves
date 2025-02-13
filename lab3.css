@@ -64,7 +64,7 @@ a {
 
 .sidebar {
    width: 25%;
-   background-color: #0077cc; /* Different from main content */
+   background-color: #0077cc; 
    color: black;
    padding: 20px;
    margin-left: 10px;
@@ -73,7 +73,7 @@ a {
 }
 
 .sidebar:hover {
-   background-color: darkorange; /* Darker blue on hover */
+   background-color: darkorange;
 }
 
 
